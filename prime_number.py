@@ -1,4 +1,4 @@
-a = 2
+a = 1
 
 if a <= 1:
     print("Enter a number greater than one")
