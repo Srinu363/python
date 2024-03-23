@@ -5,5 +5,5 @@ for i in range(len(a)):
         print("element present at index",a[i])
         break
 else:
-    print("not found")
+    print("not found ")
         
